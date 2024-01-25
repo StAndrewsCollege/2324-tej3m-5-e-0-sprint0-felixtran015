@@ -6,11 +6,7 @@ For our first sprint we will be practicing the process of design, and submission
 You will document and submit your design process in this GitHub repository. Your design process will involve all of the stages that you will show in each stage of our RoboCup project, but for this first sprint we will be working without technology.
 
 ## Goal
-
-For your roboCup sprints you will be setting your own goals that can be completed within a given time (usually two weeks). For our first sprint your goal will be given to you and will be completed in one week.
-
-`Create a design for the tallest possible tower using a single sheet of plain printer paper`
-
+our goal is to create a tall paper towel without cheating
 ### Restrictions
 
 - No tape, glue, water or other adhesive
